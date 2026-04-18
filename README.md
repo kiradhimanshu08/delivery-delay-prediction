@@ -61,3 +61,7 @@ Predict whether a shipment will be delayed using real ERP logistics data.
 ```bash
 pip install -r requirements.txt
 python model.py
+
+
+<img width="1888" height="993" alt="image" src="https://github.com/user-attachments/assets/bf3cd8ee-4355-4419-aac0-528369dbd70a" />
+
