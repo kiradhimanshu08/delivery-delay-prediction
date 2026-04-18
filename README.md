@@ -63,6 +63,7 @@ pip install -r requirements.txt
 python model.py
 
 ## 📊 Model Output
-![Output](model_output.png)
+![Output](Python.png)
+
 
 
